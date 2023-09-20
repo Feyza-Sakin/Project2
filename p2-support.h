@@ -7,7 +7,7 @@
 #define BODY_SIZE 2000
 #define NAME_SIZE 20
 //Replace e@mail.com with your VCU email below
-#define user_email "SAKINF"
+#define user_email "EXAMPLE"
 
 //	Declaring Email struct
 struct Email
